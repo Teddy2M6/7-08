@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------------
 --
--- Created by: Aden Rao
+-- Created by: Teddy Sannan
 -- Created on: April 29, 2019
 --
 -- This program lets the user control a character, shoot bullets left and right and make the character jump. There are also two characters 
